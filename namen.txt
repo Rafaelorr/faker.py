@@ -1,0 +1,494 @@
+Asher
+Amelia/Emilia
+Sage
+Oliver
+Aurora
+Rowan
+Theodore
+Violet
+Willow
+Silas
+Charlotte
+Finlay
+Liam
+Evelyn
+Harper
+Henry
+Aria/Arya
+Avery
+Finn/Fynn
+Hazel
+River
+Felix
+Ivy
+Raine
+Owen
+Nora/Norah
+Quinn
+Elijah
+Ava
+Kai
+Elliott
+Ophelia
+James
+Caleb
+Luna
+Eden
+Sebastian
+Wren
+Riley
+Declan
+Iris
+Jade
+Gabriel
+Scarlett
+Luca/Luka
+Alexander
+Olivia
+Logan
+Jasper
+Maeve
+Charlie
+Benjamin
+Adelaide
+Flynn
+Everett
+Eleanor
+Ezra
+Ethan
+Sophia/Sofia
+Rory
+Grayson/Greyson
+Adeline
+Nova
+Milo
+Alice
+Cameron
+Aidan/Aiden
+Genevieve
+Orion
+Lucas/Lukas
+Eloise
+Bailey
+Miles/Myles
+Isla
+Harlow
+Levi
+Audrey
+Aspen
+Arlo
+Penelope
+Dylan
+Alastair/Alistair
+Margot/Margo
+Morgan
+Emmett
+Lily
+Ashton
+Noah
+Astrid
+Raven
+Leo
+Evangeline
+Ellis
+Atticus
+Clara
+Elliot/Elliott
+Jack
+Lorelei
+Ember
+Rhys
+	
+⇈ Aurelia
+	
+— Dakota
+35 	
+↓ Arthur
+	
+↓ Elizabeth
+	
+↓ Reagan/Regan
+36 	
+⇈ Nathaniel
+	
+↓ Naomi
+	
+— Aubrey
+37 	
+↑ Elias
+	
+↑ Cora
+	
+⇊ Jude
+38 	
+⇊ Atlas
+	
+↑ Claire
+	
+⇈ Echo
+39 	
+⇊ Archer
+	
+↑ Juniper
+	
+⇈ Shiloh
+40 	
+↓ William
+	
+⇈ Lucy
+	
+↑ Julian
+41 	
+⇊ August
+	
+↓ Abigail
+	
+★ Noah
+42 	
+↓ Ronan
+	
+↓ Chloe
+	
+⇈ Skylar
+43 	
+⇊ Isaac
+	
+⇈ Daisy
+	
+⇈ Arden
+44 	
+⇈ Nolan
+	
+↓ Emma
+	
+⇈ Robin
+45 	
+↑ Jackson/Jaxon
+	
+⇊ Freya/Freja
+	
+↑ Sawyer
+46 	
+↑ Wesley
+	
+⇈ Josephine
+	
+⇊ Emerson
+47 	
+⇈ Callum
+	
+⇈ Autumn
+	
+⇈ Blake
+48 	
+↓ Hudson
+	
+⇈ Juliet/Juliette
+	
+⇊ Briar
+49 	
+⇈ Cyrus
+	
+⇊ Grace
+	
+⇊ Artemis
+50 	
+↑ Soren
+	
+⇊ Anastasia
+	
+★ Ari
+51 	
+⇈ Landon
+	
+↑ Sadie
+	
+⇈ Kieran
+52 	
+★ Matteo
+	
+⇊ Lydia
+	
+— Alex
+53 	
+★ Aaron
+	
+— Rosalie
+	
+⇈ Oakley
+54 	
+⇊ Theo
+	
+↓ Phoebe
+	
+— Skye
+55 	
+⇊ Evander
+	
+↑ Esme
+	
+↓ Bennett
+56 	
+⇈ Lincoln
+	
+— Ada
+	
+⇈ Dorian
+57 	
+↑ Xander/Zander
+	
+↑ Celeste
+	
+★ Dallas
+58 	
+⇈ Samuel
+	
+⇊ Stella
+	
+⇈ Aero
+59 	
+⇈ Dominic
+	
+⇈ Elodie
+	
+⇊ Addison
+60 	
+↑ Jacob
+	
+⇈ Mabel
+	
+↑ Hunter
+61 	
+★ Mason
+	
+↑ Eliana
+	
+★ Angel
+62 	
+★ Cillian/Killian
+	
+★ Camille
+	
+⇈ Salem
+63 	
+↓ Lucien
+	
+↑ Dahlia
+	
+↓ Evan
+64 	
+⇊ Malachi
+	
+⇊ Ruby
+	
+↑ Spencer
+65 	
+⇊ Micah
+	
+↑ Maya/Maia
+	
+⇈ Teagan
+66 	
+↓ Holden
+	
+↑ Lila/Lilah
+	
+★ Asa
+67 	
+↑ Ezra
+	
+⇊ Hannah
+	
+⇊ Everly/Everleigh
+68 	
+— Matthew
+	
+⇈ Arabella
+	
+⇊ Poppy
+69 	
+↓ Thomas
+	
+↑ Adalyn/Adalynn
+	
+↓ Zephyr
+70 	
+↓ Luke
+	
+↑ Daphne
+	
+— Phoenix
+71 	
+⇊ Daniel
+	
+⇊ Vivienne
+	
+⇊ Darcy
+72 	
+⇊ Beau/Bo
+	
+⇈ Willow
+	
+↓ Hayden
+73 	
+⇈ Caspian
+	
+⇊ Isabella
+	
+⇊ Fallon
+74 	
+⇈ Rhett
+	
+↑ Clementine
+	
+⇊ Indigo
+75 	
+★ Connor
+	
+⇊ Saoirse
+	
+★ Micah
+76 	
+⇊ Wyatt
+	
+⇊ Rose
+	
+★ Marlow
+77 	
+⇊ Andrew
+	
+★ Felicity
+	
+↑ Akira
+78 	
+⇊ Adrian/Adrien
+	
+⇊ Mila
+	
+★ Cairo
+79 	
+↓ Tobias
+	
+★ Beatrice
+	
+★ Romy
+80 	
+★ Oscar
+	
+★ Quinn
+	
+↑ Alexis
+81 	
+⇊ Axel
+	
+★ Clover
+	
+★ Juno
+82 	
+⇊ Harrison
+	
+↑ Delilah
+	
+↑ Sasha
+83 	
+⇈ Chase
+	
+↓ Matilda
+	
+★ Marley
+84 	
+★ Otto
+	
+★ Odette
+	
+↑ Clove
+85 	
+↓ Jonah
+	
+★ Caroline
+	
+★ Adriel
+86 	
+⇊ James
+	
+★ Fiona
+	
+★ Callan
+87 	
+↑ Roman
+	
+↑ Sophie
+	
+★ Ainsley
+88 	
+★ Gavin
+	
+↑ Calliope
+	
+↓ Reese
+89 	
+★ Julian
+	
+★ Elsie
+	
+★ Caden
+90 	
+★ John
+	
+⇊ Lilith
+	
+★ Brooklyn
+91 	
+↓ Alaric
+	
+⇊ Mia
+	
+↑ Forest
+92 	
+★ Ambrose
+	
+★ Amber
+	
+★ Lennon
+93 	
+★ Eli
+	
+★ Diana
+	
+★ Rin
+94 	
+⇊ Rowan
+	
+★ Jane
+	
+★ Ryan
+95 	
+⇊ Vincent
+	
+★ Eva
+	
+★ Banks
+96 	
+↓ Peter
+	
+↑ Victoria
+	
+⇊ Avalon
+97 	
+★ Adam
+	
+★ Flora
+	
+⇊ Azure
+99 	
+⇊ Cole
+	
+⇊ Imogen
+	
+★ Indy
+100 	
+↓ Nathan
+	
+★ Lyra
+	
+⇊ Remy
