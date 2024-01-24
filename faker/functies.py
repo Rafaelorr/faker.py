@@ -1,5 +1,7 @@
 from random import choice
 
 def random_naam():
-    namen_lijst = list()
-    return choice(namen_lijst)
+    with open('faker/namen.txt','r') as file:
+        namen_lijst = file.read()
+        list(namen_lijst)
+    return namen_lijst
