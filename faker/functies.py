@@ -1,9 +1,6 @@
 from random import choice
+from namen import namenlijst_alle_geslachten
 
 def random_naam():
-    with open('faker/namen.txt','r') as file:
-        namen_lijst = file.read()
-        list(namen_lijst)
-        print(type(namen_lijst))
-    return namen_lijst
-print(random_naam())
+    namen_lijst = namenlijst_alle_geslachten
+    return choice(namen_lijst)
