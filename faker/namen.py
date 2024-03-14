@@ -1,4 +1,4 @@
-['Asher','Amelia','Emilia','Sage','Oliver','Aurora','Rowan','Theodore','Violet','Willow','Silas','Charlotte',
+namenlijst_alle_geslachten = ['Asher','Amelia','Emilia','Sage','Oliver','Aurora','Rowan','Theodore','Violet','Willow','Silas','Charlotte',
 'Finlay','Liam','Evelyn','Harper','Henry','Aria','Arya','Avery','Finn','Fynn','Hazel','River','Felix','Ivy',
 'Raine','Owen','Nora','Norah','Quinn','Elijah','Ava','Kai','Elliott','Ophelia','James','Caleb','Luna','Eden',
 'Sebastian','Wren','Riley','Declan','Iris','Jade','Gabriel','Scarlett','Luca','Luka','Alexander','Olivia',
