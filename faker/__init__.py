@@ -11,3 +11,4 @@ from random_top_level_domain import random_top_level_domain
 from random_domain import random_domain
 from random_companyName import random_companyName
 from random_companySuffix import random_companySuffix
+from random_slogan import random_slogan
