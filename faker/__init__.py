@@ -1,1 +1,2 @@
 from random_naam import random_naam
+from random_telefoon_nummer import random_telefoon_nummer

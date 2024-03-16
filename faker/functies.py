@@ -1,8 +1,5 @@
 from random import choice
 
-def random_telefoon_nummer():
-    pass
-
 def random_datum():
     pass
 
