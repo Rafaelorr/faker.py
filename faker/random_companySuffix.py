@@ -1,4 +1,4 @@
 from random import choice
 
-def random_slogan():
+def random_companySuffix():
     pass
