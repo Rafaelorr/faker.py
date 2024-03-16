@@ -1,8 +1,5 @@
 from random import choice
 
-def random_Username():
-    pass
-
 def random_top_level_domain():
     pass
 
