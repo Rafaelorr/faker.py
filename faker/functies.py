@@ -1,8 +1,5 @@
 from random import choice
 
-def random_domain():
-    pass
-
 def random_companyName():
     pass
 
