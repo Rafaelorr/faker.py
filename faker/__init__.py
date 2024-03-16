@@ -1,3 +1,4 @@
 from random_naam import random_naam
 from random_telefoon_nummer import random_telefoon_nummer
 from random_datum import random_datum
+from random_zipcode import random_zipcode
