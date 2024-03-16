@@ -1,1 +1,1 @@
-from functies import *
+from random_naam import random_naam
