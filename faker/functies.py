@@ -1,8 +1,5 @@
 from random import choice
 
-def random_adress():
-    pass
-
 def random_email():
     pass
 

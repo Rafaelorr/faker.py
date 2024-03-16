@@ -4,3 +4,4 @@ from random_datum import random_datum
 from random_zipcode import random_zipcode
 from random_stad import random_stad
 from random_straat import random_straat
+from random_adress import random_adress
