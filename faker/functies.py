@@ -1,8 +1,5 @@
 from random import choice
 
-def random_datum():
-    pass
-
 def random_zipcode():
     pass
 
