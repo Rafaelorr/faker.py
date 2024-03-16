@@ -9,3 +9,4 @@ from random_email import random_email
 from random_Username import random_Username
 from random_top_level_domain import random_top_level_domain
 from random_domain import random_domain
+from random_companyName import random_companyName
