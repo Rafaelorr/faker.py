@@ -5,3 +5,4 @@ from random_zipcode import random_zipcode
 from random_stad import random_stad
 from random_straat import random_straat
 from random_adress import random_adress
+from random_email import random_email
