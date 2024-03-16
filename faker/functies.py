@@ -1,8 +1,5 @@
 from random import choice
 
-def random_stad():
-    pass
-
 def random_straat():
     pass
 
