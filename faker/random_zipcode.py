@@ -1,4 +1,5 @@
-from random import choice
+from random import randint
 
 def random_zipcode():
-    pass
+    zip_code = randint(1,9999)
+    return zip_code
