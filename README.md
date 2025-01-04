@@ -16,4 +16,4 @@ stad            | Content Cell  | Content cell |
 straat          | Content Cell  | content cell |
 tld             | Content Cell  | Content cell |
 username        | Content Cell  | content cell |
-zipcode         | Content Cell  | Content cell |
+nummer          | Content Cell  | Content cell |
