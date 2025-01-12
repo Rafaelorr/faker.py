@@ -12,9 +12,9 @@ def random_naam(geslacht:str) -> str:
         str: De gekozen naam
     """
     if geslacht == "m":
-        namen_lijst:list = mannelijke_namen
+        namen_lijst:list[str] = mannelijke_namen
     elif geslacht == "f":
-        namen_lijst:list = vrouwelijke_namen
+        namen_lijst:list[str] = vrouwelijke_namen
     else:
-        namen_lijst:list = namenlijst_alle_geslachten
+        namen_lijst:list[str] = namenlijst_alle_geslachten
     return choice(namen_lijst)

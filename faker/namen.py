@@ -1,4 +1,4 @@
-namenlijst_alle_geslachten:list = ['Asher','Amelia','Emilia','Sage','Oliver','Aurora','Rowan','Theodore','Violet','Willow','Silas','Charlotte',
+namenlijst_alle_geslachten: list[str] = ['Asher','Amelia','Emilia','Sage','Oliver','Aurora','Rowan','Theodore','Violet','Willow','Silas','Charlotte',
 'Finlay','Liam','Evelyn','Harper','Henry','Aria','Arya','Avery','Finn','Fynn','Hazel','River','Felix','Ivy',
 'Raine','Owen','Nora','Norah','Quinn','Elijah','Ava','Kai','Elliott','Ophelia','James','Caleb','Luna','Eden',
 'Sebastian','Wren','Riley','Declan','Iris','Jade','Gabriel','Scarlett','Luca','Luka','Alexander','Olivia',
@@ -8,7 +8,7 @@ namenlijst_alle_geslachten:list = ['Asher','Amelia','Emilia','Sage','Oliver','Au
 'Alastair','Alistair','Margot','Margo','Morgan','Emmett','Lily','Ashton','Noah','Astrid','Raven','Leo','Evangeline',
 'Ellis','Atticus','Clara','Elliot','Elliott','Jack','Lorelei','Ember','Rhys','Aurelia','Dakota','Arthur','Elizabeth',
 'Reagan','Regan','Nathaniel','Naomi','Aubrey']
-mannelijke_namen = ["JAMES","JOHN","ROBERT","MICHAEL","WILLIAM","DAVID","RICHARD","CHARLES","JOSEPH","THOMAS","CHRISTOPHER","DANIEL","PAUL","MARK","DONALD","GEORGE","KENNETH","STEVEN",
+mannelijke_namen: list[str] = ["JAMES","JOHN","ROBERT","MICHAEL","WILLIAM","DAVID","RICHARD","CHARLES","JOSEPH","THOMAS","CHRISTOPHER","DANIEL","PAUL","MARK","DONALD","GEORGE","KENNETH","STEVEN",
 "EDWARD","BRIAN","RONALD","ANTHONY","KEVIN","JASON","MATTHEW","GARY","TIMOTHY","JOSE","LARRY","JEFFREY","FRANK","SCOTT","ERIC","STEPHEN","ANDREW","RAYMOND","GREGORY",
 "JOSHUA","JERRY","DENNIS","WALTER","PATRICK","PETER","HAROLD","DOUGLAS","HENRY","CARL","ARTHUR","RYAN","ROGER","JOE","JUAN","JACK","ALBERT","JONATHAN","JUSTIN",
 "TERRY","GERALD","KEITH","SAMUEL","WILLIE","RALPH","LAWRENCE","NICHOLAS","ROY","BENJAMIN","BRUCE","BRANDON","ADAM","HARRY","FRED","WAYNE","BILLY","STEVE","LOUIS",
@@ -62,7 +62,7 @@ mannelijke_namen = ["JAMES","JOHN","ROBERT","MICHAEL","WILLIAM","DAVID","RICHARD
 "TOD","MEL","MARCELO","KORY","AUGUSTUS","KEVEN","HILARIO","BUD","SAL","ROSARIO","ORVAL","MAURO","DANNIE","ZACHARIAH","OLEN","ANIBAL","MILO","JED","FRANCES","THANH",
 "DILLON","AMADO","NEWTON","CONNIE","LENNY","TORY","RICHIE","LUPE","HORACIO","BRICE","MOHAMED","DELMER","DARIO","REYES","DEE","MAC","JONAH","JERROLD","ROBT","HANK",
 "SUNG","RUPERT","ROLLAND","KENTON","DAMION","CHI","ANTONE","WALDO","FREDRIC","BRADLY","QUINN","KIP","BURL","WALKER","TYREE","JEFFEREY","AHMED"]
-vrouwelijke_namen = [
+vrouwelijke_namen: list[str] = [
 "MARY","PATRICIA","LINDA","BARBARA","ELIZABETH","JENNIFER","MARIA","SUSAN","MARGARET","DOROTHY","LISA","NANCY","KAREN","BETTY","HELEN","SANDRA","DONNA","CAROL","RUTH",
 "SHARON","MICHELLE","LAURA","SARAH","KIMBERLY","DEBORAH","JESSICA","SHIRLEY","CYNTHIA","ANGELA","MELISSA","BRENDA","AMY","ANNA","REBECCA","VIRGINIA","KATHLEEN","PAMELA",
 "MARTHA","DEBRA","AMANDA","STEPHANIE","CAROLYN","CHRISTINE","MARIE","JANET","CATHERINE","FRANCES","ANN","JOYCE","DIANE","ALICE","JULIE","HEATHER","TERESA","DORIS",
