@@ -1,13 +1,3 @@
-namenlijst_alle_geslachten: list[str] = ['Asher','Amelia','Emilia','Sage','Oliver','Aurora','Rowan','Theodore','Violet','Willow','Silas','Charlotte',
-'Finlay','Liam','Evelyn','Harper','Henry','Aria','Arya','Avery','Finn','Fynn','Hazel','River','Felix','Ivy',
-'Raine','Owen','Nora','Norah','Quinn','Elijah','Ava','Kai','Elliott','Ophelia','James','Caleb','Luna','Eden',
-'Sebastian','Wren','Riley','Declan','Iris','Jade','Gabriel','Scarlett','Luca','Luka','Alexander','Olivia',
-'Logan','Jasper','Maeve','Charlie','Benjamin','Adelaide','Flynn','Everett','Eleanor','Ezra','Ethan','Sophia',
-'Sofia','Rory','Grayson','Greyson','Adeline','Nova','Milo','Alice','Cameron','Aidan','Aiden','Genevieve','Orion',
-'Lucas','Lukas','Eloise','Bailey','Miles','Myles','Isla','Harlow','Levi','Audrey','Aspen','Arlo','Penelope','Dylan',
-'Alastair','Alistair','Margot','Margo','Morgan','Emmett','Lily','Ashton','Noah','Astrid','Raven','Leo','Evangeline',
-'Ellis','Atticus','Clara','Elliot','Elliott','Jack','Lorelei','Ember','Rhys','Aurelia','Dakota','Arthur','Elizabeth',
-'Reagan','Regan','Nathaniel','Naomi','Aubrey']
 mannelijke_namen: list[str] = ["JAMES","JOHN","ROBERT","MICHAEL","WILLIAM","DAVID","RICHARD","CHARLES","JOSEPH","THOMAS","CHRISTOPHER","DANIEL","PAUL","MARK","DONALD","GEORGE","KENNETH","STEVEN",
 "EDWARD","BRIAN","RONALD","ANTHONY","KEVIN","JASON","MATTHEW","GARY","TIMOTHY","JOSE","LARRY","JEFFREY","FRANK","SCOTT","ERIC","STEPHEN","ANDREW","RAYMOND","GREGORY",
 "JOSHUA","JERRY","DENNIS","WALTER","PATRICK","PETER","HAROLD","DOUGLAS","HENRY","CARL","ARTHUR","RYAN","ROGER","JOE","JUAN","JACK","ALBERT","JONATHAN","JUSTIN",
