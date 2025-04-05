@@ -1,6 +1,22 @@
 # Faker.py #
 
-Functies:
+## Functies ##
+
+**Naam**           | **functie**   |
+--------           | -----------   |
+**naam**           | Geneer een willekeurige naam  |
+**adress**         | Content Cell  |
+**company**        | Content Cell  |
+**company suffix** | Content Cell  |
+**datum**          | Content Cell  |
+**internet_domain**| Content Cell  |
+**email**          | Content Cell  |
+**slogan**         | Content Cell  |
+**stad**           | Content Cell  |
+**straat**         | Content Cell  |
+**tld**            | Content Cell  |
+**username**       | Content Cell  |
+**nummer**         | Content Cell  |
 
 Naam            | functie       | databron     |
 --------------- | --------------|------------- |
