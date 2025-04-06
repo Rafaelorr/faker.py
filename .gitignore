@@ -1,3 +1,4 @@
 test.py
 /faker/__pycache__
 /faker/__pycache__/*
+*.txt
