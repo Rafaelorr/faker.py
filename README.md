@@ -18,18 +18,7 @@
 **username**       | Content Cell  |
 **nummer**         | Content Cell  |
 
-Naam            | functie       | databron     |
---------------- | --------------|------------- |
-naam            | Content Cell  | Content cell |
-adress          | Content Cell  | content cell |
-company         | Content Cell  | Content cell |
-company suffix  | Content Cell  | content cell |
-datum           | Content Cell  | Content cell |
-internet_domain | Content Cell  | content cell |
-email           | Content Cell  | Content cell |
-slogan          | Content Cell  | content cell |
-stad            | Content Cell  | Content cell |
-straat          | Content Cell  | content cell |
-tld             | Content Cell  | Content cell |
-username        | Content Cell  | content cell |
-nummer          | Content Cell  | Content cell |
+Dit project was geinspireerd op [Faker.js](https://github.com/zuriby/Faker.js) door [zuriby](https://github.com/zuriby).
+
+En ik ben een python beginneren. <br>
+Dus heb een beetje begrip als mijn code niet de beste is.
