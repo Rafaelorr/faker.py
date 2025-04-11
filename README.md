@@ -6,7 +6,7 @@
 --------           | -----------   |
 **naam**           | Geneer een willekeurige naam. <br> Opties voor enkel mannelijke, vrouwelijke of alle namen.|
 **us_adress**      | Geneer een willekeurig vs adress met een straat nummer, county naam en een staat. <br> Geef het max straat nummer in als een int.|
-**company**        | Content Cell  |
+**us_company**     | Kies een random vs bedrijf uit een lijst van meer dan 7.000 bedrijven.|
 **company suffix** | Content Cell  |
 **datum**          | Content Cell  |
 **internet_domain**| Content Cell  |

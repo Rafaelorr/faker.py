@@ -1,5 +1,5 @@
 from random import choice
-from Companies import companyName_list
+from us_companies import companyName_list
 
 def random_companyName() -> str:
     companyName: str = choice(companyName_list)
