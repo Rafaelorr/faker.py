@@ -4,8 +4,8 @@
 
 **Naam**           | **functie**   |
 --------           | -----------   |
-**naam**           | Geneer een willekeurige naam  |
-**adress**         | Content Cell  |
+**naam**           | Geneer een willekeurige naam. <br> Opties voor enkel mannelijke, vrouwelijke of alle namen.|
+**us_adress**      | Geneer een willekeurig vs adress met een straat nummer, county naam en een staat. <br> Geef het max straat nummer in als een int.|
 **company**        | Content Cell  |
 **company suffix** | Content Cell  |
 **datum**          | Content Cell  |
@@ -16,7 +16,7 @@
 **straat**         | Content Cell  |
 **tld**            | Content Cell  |
 **username**       | Content Cell  |
-**nummer**         | Content Cell  |
+**nummer**         | Geneer een willekeurig nummer tussen de twee ingeven nummers <br> Opties voor ints en floats |
 
 Dit project was geinspireerd op [Faker.js](https://github.com/zuriby/Faker.js) door [zuriby](https://github.com/zuriby).
 
