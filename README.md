@@ -1,5 +1,11 @@
 # Faker.py #
 
+Een python package die sampel data geneert (volledig offline).
+
+Het is nog in development, dus er kunnen problemen zijn.
+
+Dus als er problemen zijn, kun je die duidelijk melden in issue of fixen in pull request.
+
 ## Functies ##
 
 **Naam**           | **functie**   |
@@ -20,5 +26,5 @@
 
 Dit project was geinspireerd op [Faker.js](https://github.com/zuriby/Faker.js) door [zuriby](https://github.com/zuriby).
 
-En ik ben een python beginneren. <br>
+Ik ben een python beginner. <br>
 Dus heb een beetje begrip als mijn code niet de beste is.
