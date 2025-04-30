@@ -1,5 +1,5 @@
 from random import choice
-from slogans import slogans
+from faker.lijsten.slogans import slogans
 
 def random_slogan() -> str:
     return choice(slogans)
