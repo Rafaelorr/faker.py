@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+[project]
+name = "faker"
+version = "0.0.1"
+authors = [
+  { name="Rafaelorr", email="author@example.com" },
+]
+description = "A package that generates sampel data"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "random",
+  "time",
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+   "Operating System :: OS Independent",
+]
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/Rafaelorr/faker.py"
+Issues = "https://github.com/Rafaelorr/faker.py/issues"
