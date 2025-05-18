@@ -24,6 +24,13 @@ Dus als er problemen zijn, kun je die duidelijk melden in een issue of fixen in 
 **username**       | Geneert een random gebruikernaam.|
 **nummer**         | Geneert een willekeurig nummer tussen de twee ingeven nummers <br> Opties voor ints en floats |
 
+## Hoe maak je de package"
+
+1. Download de source code `git clone https://github.com/Rafaelorr/faker.py.git`
+2. Ga in de gedownloade folder `cd faker.py`
+3. Edit pyproject.toml als je een nieuwe versie maakt
+4. Maak de package `python3 -m build`
+
 Dit project was geinspireerd op [Faker.js](https://github.com/zuriby/Faker.js) door [zuriby](https://github.com/zuriby).
 
 Ik ben een python beginner. <br>
