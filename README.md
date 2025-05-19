@@ -21,6 +21,7 @@ Dus als er problemen zijn, kun je die melden in een issue (voeg een duidelijke b
 **tld**            | kiest een random tld uit de lijst van IACANN.|
 **username**       | Geneert een random gebruikernaam.|
 **nummer**         | Geneert een willekeurig nummer tussen de twee ingeven nummers <br> Opties voor ints en floats |
+**achternaam**     | Geneert een willekeurige achternaam.|
 
 ## Hoe maak je de package"
 
