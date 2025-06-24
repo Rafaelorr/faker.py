@@ -2,5 +2,11 @@ from random import choice
 from faker.lijsten.us_companies import companyName_list
 
 def random_companyName() -> str:
-    companyName: str = choice(companyName_list)
-    return companyName
+    """
+    Returns een random vs bedrijf.
+
+    Returns:
+        company_name (str)
+    """
+    company_name :str = choice(companyName_list)
+    return company_name

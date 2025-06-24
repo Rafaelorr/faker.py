@@ -3,13 +3,13 @@ from faker.lijsten.namen import namenlijst_alle_geslachten, mannelijke_namen, vr
 
 def random_naam(geslacht:str) -> str:
     """
-    Genereert een naam op basis van een geslacht
+    Returns een naam op basis van een geslacht.
 
     Args:
         geslacht (string): Het geslacht (m) voor mannelijk en (f) voor vrouwelijk, als het anders is het de beide geslachten
 
     Returns:
-        str: De gekozen naam
+        naam (str): de naam
     """
     namen_lijst:list[str] = []
     if geslacht == "m":
