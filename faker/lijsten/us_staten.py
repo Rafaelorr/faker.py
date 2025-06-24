@@ -1,4 +1,4 @@
-us_staten :list[str] = [
+us_staten :tuple[str] = (
 "Alabama",
 "Alaska",
 "Arizona",
@@ -49,4 +49,4 @@ us_staten :list[str] = [
 "West Virginia",
 "Wisconsin",
 "Wyoming"
-]
+)

@@ -1,4 +1,5 @@
-username_lijst = ["root",
+username_lijst :tuple[str] = (
+"root",
 "admin",
 "test",
 "guest",
@@ -988,4 +989,5 @@ username_lijst = ["root",
 "SatiricalSnicker",
 "ComicChuckle",
 "GuffawGambol",
-"PunnyPleasure"]
+"PunnyPleasure"
+)

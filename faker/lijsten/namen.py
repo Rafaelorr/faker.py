@@ -1,4 +1,5 @@
-mannelijke_namen: list[str] = ["JAMES",
+mannelijke_namen: tuple[str] = (
+"JAMES",
 "JOHN",
 "ROBERT",
 "MICHAEL",
@@ -996,8 +997,9 @@ mannelijke_namen: list[str] = ["JAMES",
 "WALKER",
 "TYREE",
 "JEFFEREY",
-"AHMED"]
-vrouwelijke_namen: list[str] = [
+"AHMED"
+)
+vrouwelijke_namen: tuple[str] = (
 "MARY",
 "PATRICIA",
 "LINDA",
@@ -1997,4 +1999,5 @@ vrouwelijke_namen: list[str] = [
 "ISABELLA",
 "HERMINIA",
 "TERRA",
-"CELINA"]
+"CELINA"
+)

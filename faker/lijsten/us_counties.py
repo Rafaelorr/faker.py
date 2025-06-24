@@ -1,4 +1,4 @@
-us_counties : list[str] = [
+us_counties : tuple[str] = (
 "Abbeville",
 "Acadia",
 "Acadia Parish",
@@ -2008,4 +2008,4 @@ us_counties : list[str] = [
 "Zapata",
 "Zavala",
 "Ziebach"
-]
+)

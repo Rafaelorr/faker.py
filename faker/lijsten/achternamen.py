@@ -1,4 +1,4 @@
-achternamen :list[str]=[
+achternamen :tuple[str]= (
 "Aaberg",
 "Aalders",
 "Aalst",
@@ -32367,4 +32367,5 @@ achternamen :list[str]=[
 "Zybala",
 "Zylstra",
 "Zysk",
-"Zywiel",]
+"Zywiel"
+)

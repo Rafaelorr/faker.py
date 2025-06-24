@@ -1,4 +1,4 @@
-companyName_list: list[str] = [
+companyName_list: tuple[str] = (
 "UnitedHealth Group",
 "Berkshire Hathaway",
 "CVS Health",
@@ -7447,4 +7447,5 @@ companyName_list: list[str] = [
 "ZymoGenetics",
 "Zynex",
 "Zyrtec",
-"ZyXE"]
+"ZyXE"
+)

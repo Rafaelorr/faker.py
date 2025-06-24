@@ -1,4 +1,4 @@
-us_straat_namen :list[str] = [
+us_straat_namen :tuple[str] = (
 "Main St",
 "Church St",
 "Oak St",
@@ -699,4 +699,5 @@ us_straat_namen :list[str] = [
 "Co Hwy H",
 "Co Rd V",
 "Cottonwood St",
-"US Hwy 287"]
+"US Hwy 287"
+)

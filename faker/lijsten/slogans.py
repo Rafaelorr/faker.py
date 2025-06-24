@@ -1,4 +1,4 @@
-slogans : list[str] = [
+slogans :tuple[str] = (
 "Just Do It",
 "I’m Lovin’ It",
 "Think Different",
@@ -160,4 +160,5 @@ slogans : list[str] = [
 "We’ve got you under our wing",
 "Insurance solutions from A to Z",
 "Enriching the lives of people, we touch",
-"The relationship company"]
+"The relationship company"
+)

@@ -1,4 +1,4 @@
-steden :list[str] = [
+steden :tuple[str] = (
 "Alexander City",
 "Andalusia",
 "Anniston",
@@ -2042,4 +2042,4 @@ steden :list[str] = [
 "City of Gibraltar",
 "Stanley",
 "Jamestown"
-]
+)

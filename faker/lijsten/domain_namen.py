@@ -1,4 +1,4 @@
-domain_naam_lijst: list[str] = [
+domain_naam_lijst :tuple[str] = (
 "webmagnat.ro",
 "nickelfreesolutions.com",
 "scheepvaarttelefoongids.nl",
@@ -19977,4 +19977,4 @@ domain_naam_lijst: list[str] = [
 "sdc-hosting.com",
 "terrydeansdancestudio.com",
 "stipowered.com"
-]
+)
