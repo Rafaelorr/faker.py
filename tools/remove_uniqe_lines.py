@@ -1,11 +1,10 @@
-import sys
 import time as t
 
 def get_time():
 	return t.strftime('%H:%M:%S')
 
 try:
-	fileName = sys.argv[1]
+	fileName = input("Input filename: ")
 except:
 	print('You didn\'t supply a valid filename.')
 	exit()

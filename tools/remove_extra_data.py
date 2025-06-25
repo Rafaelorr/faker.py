@@ -1,6 +1,6 @@
 # Define the input and output file paths
-input_file_path = input("input file name: ")
-output_file_path = input("output file name: ")
+input_file_path = input("Input filename: ")
+output_file_path = input("Output filename: ")
 
 # Open the input file for reading
 with open(input_file_path, 'r', encoding='utf-8') as infile:

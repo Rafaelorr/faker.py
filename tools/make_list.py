@@ -1,6 +1,6 @@
 # Define input and output file paths
-input_file = 'LastNames.txt'   # Replace with your input file name
-output_file = 'output.txt' # Replace with your desired output file name
+input_file = input("Input filename: ")
+output_file = input("Output filename: ")
 
 # Read the lines from the input file
 with open(input_file, 'r', encoding='utf-8') as file:

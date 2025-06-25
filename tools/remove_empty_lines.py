@@ -1,5 +1,5 @@
 # Specify the filename
-filename = 'faker/lijsten/achternamen.py'
+filename = input("Input filename: ")
 
 # Read the file and filter out empty lines
 with open(filename, 'r') as file:
