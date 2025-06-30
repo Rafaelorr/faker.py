@@ -3,7 +3,7 @@ from functies.random_companySuffix import random_companySuffix
 from functies.random_datum import random_date
 from functies.random_domain import random_domain
 from functies.random_email import random_email
-from functies.random_naam import random_naam
+from faker.functies.random_voornaam import random_naam
 from functies.random_number import random_nummer
 from functies.random_slogan import random_slogan
 from functies.random_stad import random_stad

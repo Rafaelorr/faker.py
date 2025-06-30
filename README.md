@@ -9,7 +9,7 @@ Dus als er problemen zijn, kun je die melden in een issue (voeg een duidelijke b
 
 **Naam**           | **functie**   |
 --------           | -----------   |
-**naam**           | Geneert een willekeurige naam. <br> Opties voor enkel mannelijke, vrouwelijke of alle namen.|
+**voornaam**           | Geneert een willekeurige naam. <br> Opties voor enkel mannelijke, vrouwelijke of alle namen.|
 **us_adress**      | Geneert een willekeurig vs adress met een straat nummer, county naam en een staat. <br> Geeft het max straat nummer in als een int.|
 **us_company**     | Kiest een random vs bedrijf uit een lijst van meer dan 7.000 bedrijven.|
 **companySuffix** | Kiest een random bedrijfachtervoegels zoals Corp of Inc.|
@@ -47,7 +47,7 @@ So if there are any problems, you can report them in an issue (add a clear descr
 
 **Name** | **function** |
 -------- | ----------- |
-**naam** | Generates a random name. <br> Options for only male, female or all names.|
+**voornaam** | Generates a random name. <br> Options for only male, female or all names.|
 **us_adress** | Generates a random vs address with a street number, county name and a state. <br> Gives the max street number as an int.|
 **us_company** | Picks a random vs company from a list of over 7,000 companies.|
 **companySuffix** | Picks a random company suffix such as Corp or Inc.|
