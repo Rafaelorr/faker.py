@@ -4,3 +4,4 @@ test.py
 *.txt
 .vscode/bookmarks.json
 /dist
+/faker/functies/__pycache__
