@@ -1,4 +1,3 @@
-import random
 import time
     
 def str_time_prop(start:str, end:str, time_format:str, prop:float) -> str:

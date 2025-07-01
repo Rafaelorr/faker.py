@@ -1,5 +1,5 @@
 from random import choice
-from faker.lijsten.straten import us_straat_namen
+from lijsten.straten import us_straat_namen
 
 def random_straat() -> str:
     """

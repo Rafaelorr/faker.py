@@ -1,5 +1,5 @@
-from random_achternaam import random_achternaam
-from random_voornaam import random_voornaam
+from functies.random_achternaam import random_achternaam
+from functies.random_voornaam import random_voornaam
 
 def random_naam(geslacht:str) -> str:
     """

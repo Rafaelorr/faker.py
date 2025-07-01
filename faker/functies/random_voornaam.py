@@ -1,5 +1,5 @@
 from random import choice
-from faker.lijsten.namen import mannelijke_namen, vrouwelijke_namen
+from lijsten.namen import mannelijke_namen, vrouwelijke_namen
 
 def random_voornaam(geslacht:str) -> str:
     """

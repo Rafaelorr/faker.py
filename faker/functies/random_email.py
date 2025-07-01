@@ -1,6 +1,5 @@
 from random import choice
-from random_domain import random_domain
-from random_top_level_domain import random_top_level_domain
+from functies.random_top_level_domain import random_top_level_domain
 
 def random_email() -> str:
     """
