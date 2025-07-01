@@ -1,5 +1,5 @@
 from random import choice
-from faker.lijsten.us_companies import companyName_list
+from lijsten.us_companies import companyName_list
 
 def random_companyName() -> str:
     """

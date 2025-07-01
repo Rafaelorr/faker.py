@@ -1,5 +1,5 @@
 from random import choice
-from faker.lijsten.steden import steden
+from lijsten.steden import steden
 
 def random_stad() -> str:
     """
