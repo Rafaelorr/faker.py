@@ -24,7 +24,8 @@ Dus als er problemen zijn, kun je die melden in een issue (voeg een duidelijke b
 **nummer**         | Geneert een willekeurig nummer tussen de twee ingeven nummers <br> Opties voor ints en floats |
 **achternaam**     | Geneert een willekeurige achternaam.|
 **naam**           | Geneert een willekeurige naam (voornaam + achternaam).|
-**ip_adress**        | Geneert een random ip adress. v4 voor een ip v4 adress en v6 voor een ip v6 adress.|
+**ip_adress**      | Geneert een random ip adress. v4 voor een ip v4 adress en v6 voor een ip v6 adress.|
+**land**           | Kiest een random land.|
 
 ## Hoe maak je de package"
 
@@ -65,6 +66,7 @@ So if there are any problems, you can report them in an issue (add a clear descr
 **achternaam** | Generates a random last name.|
 **naam**       | Generates a random name (first name + last name).|
 **ip_adress**  | Generates a random ip adress. v4 for an ip v4 adress and v6 for an ip v6 adress.|
+**land**       | Chooses a random country.|
 
 ## How to make the package
 
