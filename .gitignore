@@ -5,3 +5,4 @@ test.py
 .vscode/bookmarks.json
 /dist
 /faker/functies/__pycache__
+/faker/lijsten/__pycache__
