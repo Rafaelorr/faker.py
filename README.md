@@ -23,6 +23,7 @@ Dus als er problemen zijn, kun je die melden in een issue (voeg een duidelijke b
 **username**       | Geneert een random gebruikernaam.|
 **nummer**         | Geneert een willekeurig nummer tussen de twee ingeven nummers <br> Opties voor ints en floats |
 **achternaam**     | Geneert een willekeurige achternaam.|
+**naam**           | Geneert een willekeurige naam (voornaam + achternaam).|
 
 ## Hoe maak je de package"
 
@@ -61,6 +62,7 @@ So if there are any problems, you can report them in an issue (add a clear descr
 **username** | Generates a random username.|
 **nummer** | Generates a random number between the two entered numbers <br> Options for ints and floats |
 **achternaam** | Generates a random last name.|
+**naam**       | Generates a random name (first name + last name).|
 
 ## How to make the package
 
