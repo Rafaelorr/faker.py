@@ -1,22 +1,19 @@
-from random import choice
-from faker.lijsten.namen import namenlijst_alle_geslachten, mannelijke_namen, vrouwelijke_namen
+from functies.random_achternaam import random_achternaam
+from functies.random_voornaam import random_voornaam
 
 def random_naam(geslacht:str) -> str:
     """
-    Returns een naam op basis van een geslacht.
+    Returns een naam op basis van het gegeven geslacht.
 
     Args:
-        geslacht (string): Het geslacht (m) voor mannelijk en (f) voor vrouwelijk, als het anders is het de beide geslachten
-
+        geslacht (string): m voor mannelijk en f voor vrouwelijk, iets anders voor unisex
+    
     Returns:
-        naam (str): de naam
+        naam (str): format = "{voornaam} {achternaam}"
     """
-    namen_lijst:list[str] = []
     if geslacht == "m":
-        namen_lijst.extend(mannelijke_namen)
+        return f'{random_voornaam("m")} {random_achternaam()}'
     elif geslacht == "f":
-        namen_lijst.extend(vrouwelijke_namen)
+        return f'{random_voornaam("f")} {random_achternaam()}'
     else:
-        namen_lijst.extend(mannelijke_namen)
-        namen_lijst.extend(vrouwelijke_namen)
-    return choice(namen_lijst)
+        return f'{random_voornaam("a")} {random_achternaam()}'
