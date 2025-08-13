@@ -10,10 +10,7 @@ authors = [
 description = "A package that generates sampel data"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = [
-  "random",
-  "time",
-]
+dependencies = []
 classifiers = [
   "Programming Language :: Python :: 3",
    "Operating System :: OS Independent",
