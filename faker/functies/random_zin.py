@@ -14,5 +14,3 @@ def random_zin(lijst=None, taal="nl") -> str:
     zinwoorden = [choice(lijst) for _ in range(randint(1, len(lijst)))]
     zin = ''.join(zinwoorden) + '.'
     return zin
-
-print(random_zin())
