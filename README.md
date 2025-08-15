@@ -26,6 +26,7 @@ Dus als er problemen zijn, kun je die melden in een issue (voeg een duidelijke b
 **naam**           | Geneert een willekeurige naam (voornaam + achternaam).                                                                             |
 **ip_adress**      | Geneert een random ip adress. v4 voor een ip v4 adress en v6 voor een ip v6 adress.                                                |
 **land**           | Kiest een random land.                                                                                                             |
+**zin**            | Geneert een random zin van woorden uit de nl_lorem,us_lorem of een eigen lijst op basis van het taal variable. <br> `nl`voor nl_lorem, `us`voor us_lorem. |
 
 ## Hoe maak je de package
 
@@ -67,6 +68,7 @@ So if there are any problems, you can report them in an issue (add a clear descr
 **naam**          | Generates a random name (first name + last name).                                                                       |
 **ip_adress**     | Generates a random ip adress. v4 for an ip v4 adress and v6 for an ip v6 adress.                                        |
 **land**          | Chooses a random country.                                                                                               |
+**zin**           | Generates a random sentence of words from the nl_lorem,us_lorem or a custom list based on the language variable. 'nl' for nl_lorem, 'us' for us_lorem. |
 
 ## How to make the package
 
