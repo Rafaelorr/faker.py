@@ -1,3 +1,4 @@
+"""This script removes empty lines, leading and trailing whitespace from the inputted text file."""
 # Define the input and output file paths
 input_file_path = input("Input filename: ")
 output_file_path = input("Output filename: ")
