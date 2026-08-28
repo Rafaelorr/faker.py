@@ -1,3 +1,4 @@
+"""Een lijst met veel landen op alfabetische volgorde."""
 landen :tuple[str] = (
 "Afghanistan",
 "Albania",

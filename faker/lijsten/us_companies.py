@@ -1,3 +1,4 @@
+"""Een lijst met de namen van bedrijven, voornamelijk gevestigd in de Verenigde Staten."""
 companyName_list: tuple[str] = (
 "UnitedHealth Group",
 "Berkshire Hathaway",

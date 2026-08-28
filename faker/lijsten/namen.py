@@ -1,3 +1,8 @@
+"""
+Een lijst met mannelijke voornamen in hoofdletters. \n
+Een lijst met vrouwelijke voornamen in hoofdletters. \n
+Vooral Engelse voornamen.
+"""
 mannelijke_namen: tuple[str] = (
 "JAMES",
 "JOHN",

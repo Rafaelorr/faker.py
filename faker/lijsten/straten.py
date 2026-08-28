@@ -1,3 +1,4 @@
+"""Een lijst met de namen van veel voorkomende straat namen in de Verenigde Staten."""
 us_straat_namen :tuple[str] = (
 "Main St",
 "Church St",

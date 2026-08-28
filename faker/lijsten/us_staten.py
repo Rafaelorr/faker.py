@@ -1,3 +1,4 @@
+"""Een lijst van alle staten van de Verenigde Staten van Amerika."""
 us_staten :tuple[str] = (
 "Alabama",
 "Alaska",

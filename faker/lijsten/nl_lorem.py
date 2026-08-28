@@ -1,3 +1,4 @@
+"""Een lijst met Nederlandse woorden in alfabetische volgorde."""
 nl_woorden_lijst :tuple[str] = (
 "aan",
 "aanbod",

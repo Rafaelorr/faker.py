@@ -1,3 +1,4 @@
+"""Een lijst met achternamen in alfabetische volgorde."""
 achternamen :tuple[str]= (
 "Aaberg",
 "Aalders",

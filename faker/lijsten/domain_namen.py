@@ -1,3 +1,4 @@
+"""Een lijst van random websites met verschilende tlds."""
 domain_naam_lijst :tuple[str] = (
 "webmagnat.ro",
 "nickelfreesolutions.com",

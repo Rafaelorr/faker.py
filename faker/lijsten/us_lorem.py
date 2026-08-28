@@ -1,3 +1,4 @@
+"""Een lijst met veel Engelse woorden."""
 us_word_list :tuple[str] = (
 "a",
 "ability",

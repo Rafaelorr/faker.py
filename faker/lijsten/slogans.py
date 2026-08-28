@@ -1,3 +1,4 @@
+"""Een lijst met de slogans van een paar bedrijven."""
 slogans :tuple[str] = (
 "Just Do It",
 "I’m Lovin’ It",
@@ -99,7 +100,8 @@ slogans :tuple[str] = (
 "Do What You Can’t",
 "Move the Way You Want",
 "Rewards Reimagined",
-"Let Us Guide You Home""Got Milk?",
+"Let Us Guide You Home",
+"Got Milk?",
 "Every Little Helps.",
 "Melts in Your Mouth, Not in Your Hands.",
 "The Quicker Picker Upper.",

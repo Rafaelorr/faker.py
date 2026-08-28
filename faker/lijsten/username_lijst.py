@@ -1,3 +1,4 @@
+"""Een lijst vol random gebruikersnamen."""
 username_lijst :tuple[str] = (
 "root",
 "admin",

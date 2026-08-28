@@ -1,3 +1,4 @@
+"""Een lijst met counties uit de Verenigde Staten van Amerika."""
 us_counties : tuple[str] = (
 "Abbeville",
 "Acadia",

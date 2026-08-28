@@ -1,3 +1,4 @@
+"""Een lijst met alle tlds in hoofdletters."""
 top_level_domain_lijst :tuple[str] = (
 "AA",
 "AARP",

@@ -1,3 +1,4 @@
+"""Een lijst met de namen van de steden uit het Verenigd Koninkrijk en de Verenigde Staten."""
 steden :tuple[str] = (
 "Alexander City",
 "Andalusia",
