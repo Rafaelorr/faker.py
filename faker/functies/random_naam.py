@@ -13,7 +13,8 @@ def random_naam(geslacht:str) -> str:
     """
     if geslacht == "m":
         return f'{random_voornaam("m")} {random_achternaam()}'
-    elif geslacht == "f":
+
+    if geslacht == "f":
         return f'{random_voornaam("f")} {random_achternaam()}'
-    else:
-        return f'{random_voornaam("a")} {random_achternaam()}'
+
+    return f'{random_voornaam("a")} {random_achternaam()}'

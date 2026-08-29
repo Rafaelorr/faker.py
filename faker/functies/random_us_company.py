@@ -1,7 +1,7 @@
 from random import choice
 from lijsten.us_companies import companyName_list
 
-def random_companyName() -> str:
+def random_company_name() -> str:
     """
     Returns een random vs bedrijf.
 

@@ -1,13 +1,13 @@
 from random import choice
 
-def random_companySuffix() -> str:
+def random_company_suffix() -> str:
     """
     Returns een random bedrijf suffix (bv. Corp).
     
     Returns:
         company suffix (str)
     """
-    companySuffix_list: tuple[str] = (
+    company_suffix_list: tuple[str] = (
     "Ltd",
     "Ltd.",
     "S.A.",
@@ -30,5 +30,6 @@ def random_companySuffix() -> str:
     "Corp",
     "Pte. Ltd"
     )
-    companySuffix: str = choice(companySuffix_list)
-    return companySuffix
+    company_suffix: str = choice(company_suffix_list)
+
+    return company_suffix
